@@ -10,7 +10,7 @@ support workflows, protects sensitive actions with identity verification, and
 controls the storefront through voice commands.
 
 - Live demo: <https://novamart-eco.pages.dev>
-- Portfolio: <https://feralonsoia.github.io>
+- Portfolio: <https://nandalf16.github.io>
 
 ## Run locally
 

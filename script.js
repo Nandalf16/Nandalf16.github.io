@@ -22,7 +22,7 @@ const translations = {
     aboutBody2: "Me interesa el punto donde la tecnología se encuentra con una persona real: hacer más seguro un agente de voz, ayudar a un modelo a usar la herramienta correcta o convertir un tema complejo en una clase útil.",
     principle1: "Empezar por el usuario, no por el modelo.", principle2: "Probar los casos límite incómodos.", principle3: "Explicar sistemas complejos de forma sencilla.", principle4: "Seguir aprendiendo en público.",
     contactEyebrow: "Construyamos algo útil", contactTitle: "Me interesan la IA aplicada, los agentes y los productos que se sienten humanos.",
-    currentGithub: "GitHub actual", mlGithub: "Proyectos de ML", footerLine: "Construido con cursos, experimentos y mucha iteración."
+    currentGithub: "Perfil de GitHub", footerLine: "Construido con cursos, experimentos y mucha iteración."
   }
 };
 
